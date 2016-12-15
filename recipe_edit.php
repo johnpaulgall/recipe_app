@@ -55,10 +55,6 @@
                             <label for="description">Update Description:</label>
                             <input type="text" name="description" id="streetAddress" class="text-input" value="<?php echo $description;?>">
                         </li>
-                        <!--<li>
-                            <label for="chef_name">Chef:</label>
-                            <input type="text" name="chef_name" id="chefname" placeholder="chef's name" class="text-input">
-                        </li> -->
                         <label for="chef_name">Chef:</label>
                         <select name="chef_id">
                             <?php

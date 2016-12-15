@@ -11,9 +11,7 @@
         $recipe_id = $_GET["recipe_id"];
         $recipe_name = $_POST["recipe_name"];
         $description = $_POST["description"];
-        //$cat_name = $_POST["cat_name"];
         $chef_name = $_POST["chef_id"];
-        //$cuisine_name = $_POST["cuisine_name"];
         
         if(isset($_FILES['image'])){
         $errors= array();

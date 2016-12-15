@@ -42,10 +42,6 @@
                             <input type="text" name="description" id="streetAddress" placeholder="recipe description" class="text-input">
                         </li>
                         <li>
-                            <label for="chef_name">Chef:</label>
-                            <input type="text" name="chef_name" id="chef_name" placeholder="chef's name" class="text-input">
-                        </li>
-                        <li>
                             <label for="chef_name">Chef Select:</label>
                             <select name="chef_id">
                                 <option value = ""></option>
