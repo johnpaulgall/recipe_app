@@ -5,6 +5,7 @@
      	<title>thank you</title>
         <title>Recipe Database</title>
         <link rel="stylesheet" href="CSS/styles.css">
+        <meta name="viewport" content="width=device-width">
     </head>
     <?php
         include 'mysql_connect.php';

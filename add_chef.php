@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="CSS/styles.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
         <script src="scripts.js"></script>
+        <meta name="viewport" content="width=device-width">
     </head>
     <body>
         <header>

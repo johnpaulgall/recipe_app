@@ -6,6 +6,7 @@
         <title>Recipe web app</title>
         <link rel="stylesheet" href="style-card.css" type="text/css" media="all">
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <meta name="viewport" content="width=device-width">
     </head>
     <body>
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>

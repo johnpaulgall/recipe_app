@@ -7,15 +7,14 @@
         <link rel="stylesheet" href="CSS/styles.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
         <script src="scripts.js"></script>
+        <meta name="viewport" content="width=device-width">
     </head>
     <?php
         include 'mysql_connect.php';
 
         $recipe_name = addslashes( $_POST["recipe_name"]);
         $description = addslashes($_POST["description"]);
-        //$cat_name = $_POST["cat_name"];
         $chef_name = addslashes($_POST["chef_name"]);
-        //$cuisine_name = $_POST["cuisine_name"];
     ?>
     <body>
         <header>
